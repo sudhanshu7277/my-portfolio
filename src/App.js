@@ -5,7 +5,7 @@ function App() {
   return (
     <>
         <div>
-          Starter React app ! test !
+          Testing basic deployment !
         </div>
     </>
   );
