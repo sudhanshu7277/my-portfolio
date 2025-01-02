@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
         <div>
-          Starter React app
+          Starter React app, basic app !
         </div>
     </div>
   );
