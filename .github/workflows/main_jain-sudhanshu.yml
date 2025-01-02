@@ -58,7 +58,6 @@ jobs:
         uses: azure/login@v2
         with:
           client-id: ${{ secrets.__clientidsecretname__ }}
-          client-secret: ${{ secrets.__clientidsecretpassword__ }}
           tenant-id: ${{ secrets.__tenantidsecretname__ }}
           subscription-id: ${{ secrets.__subscriptionidsecretname__ }}
 
