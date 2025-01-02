@@ -5,7 +5,7 @@ function App() {
   return (
     <>
         <div>
-          Starter React app, basic app ! test !
+          Starter React app ! test !
         </div>
     </>
   );
