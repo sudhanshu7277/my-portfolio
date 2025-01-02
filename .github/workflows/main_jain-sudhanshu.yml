@@ -59,4 +59,4 @@ jobs:
           app-name: 'jain-sudhanshu'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ddb127e75e114a42ba07da6f52e07576 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_4492ac35972e49e6bc393e43f33dd2d4 }}
